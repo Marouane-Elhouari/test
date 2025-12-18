@@ -1,0 +1,2 @@
+print("ana ghadi ldar")
+
